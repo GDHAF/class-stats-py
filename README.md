@@ -86,7 +86,3 @@ Ao final, o programa imprime os resultados no terminal e gera o arquivo `resulta
 - Python
 - pandas
 - matplotlib
-
-## Autor
-
-Henrique — Engenharia da Computação (CEFSA/FESA)
