@@ -39,7 +39,7 @@ EstatisticaClasses/
 ## Instalação
 
 ```bash
-git clone https://github.com/<seu-usuario>/EstatisticaClasses.git
+git clone https://github.com/GDHAF/class-stats-py
 cd EstatisticaClasses
 
 python -m venv .venv
