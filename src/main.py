@@ -2,7 +2,7 @@ import sys
 import csv
 import pandas as pd
 import matplotlib.pyplot as plt
-from src.Calculos.classe import Calc_Classes
+from Calculos.classe import Calc_Classes
 
 
 
