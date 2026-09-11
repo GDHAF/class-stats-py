@@ -4,6 +4,13 @@ Ferramenta em Python para **análise estatística descritiva por classes** a par
 
 ![Exemplo de saída](resultado_estatistico.png)
 
+## Integrantes
+
+- Rafael Rupert Barrocal: **081230002**
+- Matheus da Silva Souza: **081230011**
+- Henrique Alves Ferreira: **081230015**
+- Gabriel Melo Santos: **081230044**
+
 ## Funcionalidades
 
 - Leitura de valores numéricos a partir de um CSV
